@@ -28,21 +28,27 @@
                     </div>
                     <div class="header_top--right">
                         <div class="header_top--lang">
-                            Ру
+                            <?php
+                            $lang = explode("/", $_SERVER['REQUEST_URI']);
+                                switch ($lang[1]) {
+                                    case "en":
+                                        echo "En";
+                                        break;
+                                    case "uk":
+                                        echo "Укр";
+                                        break;
+                                    case "":
+                                        echo "Ру";
+                                        break;
+                                    default:
+                                        echo "Ру";
+                                        break;
+                                }
+                            ?>
                             <div class="header_top--down">
                                 <?php
-//                                if( $menu_items = wp_get_nav_menu_items('language') ) {
-//                                    $menu_list = '';
-//                                    foreach ( (array) $menu_items as $key => $menu_item ) {
-//                                        $menu_list .= '<div class="header_top--one">' . $menu_item->title . '</div>';
-//                                    }
-//                                    echo $menu_list;
-//                                }
-//                                echo do_shortcode( '[bogo]' );
+                                    echo do_shortcode( '[bogo]' );
                                 ?>
-                                <div class="header_top--one">Ру</div>
-                                <div class="header_top--one">Укр</div>
-                                <div class="header_top--one">Eng</div>
                             </div>
                         </div>
                         <div class="header_top--work">

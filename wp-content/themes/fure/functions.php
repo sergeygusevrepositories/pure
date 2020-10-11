@@ -1,45 +1,18 @@
 <?php
 
-//add_filter( 'nav_menu_link_attributes', 'wpse156165_menu_add_class', 10, 3 );
-//
-//function wpse156165_menu_add_class( $atts, $item, $args ) {
-//    $class = 'menu__link'; // or something based on $item
-//    $atts['class'] = $class;
-//    return $atts;
-//}
-//
-//function add_additional_class_on_li($classes, $item, $args) {
-//    if($args->add_li_class) {
-//        $classes[] = $args->add_li_class;
-//    }
-//    return $classes;
-//}
-//add_filter('nav_menu_css_class', 'add_additional_class_on_li', 1, 3);
-//
-//function new_submenu_class($menu) {
-//    $menu = preg_replace('/ class="sub-menu"/',' class="menu__sub" ',$menu);
-//    return $menu;
-//}
-//
-//add_filter('wp_nav_menu','new_submenu_class');
-
-
 add_filter( 'wpcf7_autop_or_not', '__return_false' );
 
+add_filter( 'bogo_use_flags','bogo_use_flags_false');
 
+function bogo_use_flags_false(){
+    return false;
+}
 
+add_filter( 'bogo_language_switcher','replace_bogo_text');
 
-
-
-
-
-
-
-
-
-
-
-
+function replace_bogo_text($output){
+    return str_replace('English','Eng', str_replace('Українська','Укр', str_replace('Русский','Ру', $output)));
+}
 
 add_action('plugins_loaded', 'theme_load_textdomain');
 
