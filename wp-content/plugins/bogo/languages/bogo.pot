@@ -1,0 +1,913 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bogo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-09 09:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#. %s: number of pages
+#: admin/includes/language-packs.php:203
+#, php-format
+msgid "%s Page"
+msgid_plural "%s Pages"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: number of posts
+#: admin/includes/language-packs.php:195
+#, php-format
+msgid "%s Post"
+msgid_plural "%s Posts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. accessibility text
+#: admin/admin.php:60 admin/includes/language-packs.php:365
+#: admin/includes/post.php:261
+msgid "(opens in a new window)"
+msgstr ""
+
+#: admin/includes/terms-translation.php:107
+msgid "-- Select Language to Edit --"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A straight-forward multilingual plugin. No more double-digit custom DB "
+"tables or hidden HTML comments that could cause you headaches later on."
+msgstr ""
+
+#: admin/includes/language-packs.php:284
+msgid "Activate"
+msgstr ""
+
+#. %s: language name
+#: admin/includes/language-packs.php:287
+#, php-format
+msgid "Activate %s language pack"
+msgstr ""
+
+#: admin/includes/language-packs.php:169
+msgid "Active"
+msgstr ""
+
+#. %s: language name
+#: admin/admin.php:52
+#, php-format
+msgid "Add %s Translation"
+msgstr ""
+
+#: admin/includes/post.php:289 admin/includes/post.php:308
+msgid "Add Translation"
+msgstr ""
+
+#: includes/functions.php:12
+msgid "Afrikaans"
+msgstr ""
+
+#: includes/functions.php:131
+msgid "Albanian"
+msgstr ""
+
+#: includes/functions.php:13
+msgid "Amharic"
+msgstr ""
+
+#: includes/functions.php:15
+msgid "Arabic"
+msgstr ""
+
+#: includes/functions.php:14
+msgid "Aragonese"
+msgstr ""
+
+#: includes/functions.php:80
+msgid "Armenian"
+msgstr ""
+
+#: includes/functions.php:17
+msgid "Assamese"
+msgstr ""
+
+#: includes/functions.php:18
+msgid "Azerbaijani"
+msgstr ""
+
+#: includes/functions.php:22
+msgid "Bangla"
+msgstr ""
+
+#: includes/functions.php:60
+msgid "Basque"
+msgstr ""
+
+#: includes/functions.php:20
+msgid "Belarusian"
+msgstr ""
+
+#. Name of the plugin
+msgid "Bogo"
+msgstr ""
+
+#: includes/functions.php:25
+msgid "Bosnian"
+msgstr ""
+
+#: includes/functions.php:21
+msgid "Bulgarian"
+msgstr ""
+
+#: includes/functions.php:103
+msgid "Burmese"
+msgstr ""
+
+#: includes/functions.php:26
+msgid "Catalan"
+msgstr ""
+
+#: includes/functions.php:27
+msgid "Cebuano"
+msgstr ""
+
+#: includes/functions.php:28
+msgid "Central Kurdish"
+msgstr ""
+
+#: includes/functions.php:150
+msgid "Chinese (China)"
+msgstr ""
+
+#: includes/functions.php:151
+msgid "Chinese (Hong Kong)"
+msgstr ""
+
+#: includes/functions.php:152
+msgid "Chinese (Taiwan)"
+msgstr ""
+
+#: admin/includes/terms-translation.php:14
+msgid "Context"
+msgstr ""
+
+#: includes/functions.php:29
+msgid "Corsican"
+msgstr ""
+
+#: includes/functions.php:76
+msgid "Croatian"
+msgstr ""
+
+#: includes/functions.php:30
+msgid "Czech"
+msgstr ""
+
+#: includes/functions.php:32
+msgid "Danish"
+msgstr ""
+
+#: admin/includes/language-packs.php:292
+msgid "Deactivate"
+msgstr ""
+
+#. %s: language name
+#: admin/includes/language-packs.php:295
+#, php-format
+msgid "Deactivate %s language pack"
+msgstr ""
+
+#: includes/functions.php:38
+msgid "Dhivehi"
+msgstr ""
+
+#. followed by available languages list
+#: admin/includes/widgets.php:22 admin/includes/nav-menu.php:36
+msgid "Displayed on pages in"
+msgstr ""
+
+#: includes/functions.php:108
+msgid "Dutch"
+msgstr ""
+
+#: includes/functions.php:107
+msgid "Dutch (Belgium)"
+msgstr ""
+
+#: includes/functions.php:109
+msgid "Dutch (Formal)"
+msgstr ""
+
+#: includes/functions.php:39
+msgid "Dzongkha"
+msgstr ""
+
+#: admin/includes/post.php:126
+#, php-format
+msgid "Edit %s translation"
+msgstr ""
+
+#: admin/admin.php:66
+msgid "Edit Post"
+msgstr ""
+
+#: includes/functions.php:42
+msgid "English (Australia)"
+msgstr ""
+
+#: includes/functions.php:43
+msgid "English (Canada)"
+msgstr ""
+
+#: includes/functions.php:45
+msgid "English (New Zealand)"
+msgstr ""
+
+#: includes/functions.php:46
+msgid "English (South Africa)"
+msgstr ""
+
+#: includes/functions.php:44
+msgid "English (UK)"
+msgstr ""
+
+#: includes/functions.php:41
+msgid "English (United States)"
+msgstr ""
+
+#: admin/admin.php:490
+msgid "English (United States) activated."
+msgstr ""
+
+#: admin/admin.php:488
+msgid "English (United States) deactivated."
+msgstr ""
+
+#: includes/functions.php:47
+msgid "Esperanto"
+msgstr ""
+
+#: includes/functions.php:59
+msgid "Estonian"
+msgstr ""
+
+#: includes/rest-api.php:199
+msgid "Failed to duplicate a post."
+msgstr ""
+
+#: includes/functions.php:63
+msgid "Faroese"
+msgstr ""
+
+#: includes/functions.php:62
+msgid "Finnish"
+msgstr ""
+
+#: includes/functions.php:65
+msgid "French (Belgium)"
+msgstr ""
+
+#: includes/functions.php:66
+msgid "French (Canada)"
+msgstr ""
+
+#: includes/functions.php:64
+msgid "French (France)"
+msgstr ""
+
+#: includes/functions.php:68
+msgid "Frisian"
+msgstr ""
+
+#: includes/functions.php:67
+msgid "Friulian"
+msgstr ""
+
+#: includes/functions.php:71
+msgid "Galician"
+msgstr ""
+
+#: includes/functions.php:86
+msgid "Georgian"
+msgstr ""
+
+#: includes/functions.php:33
+msgid "German"
+msgstr ""
+
+#: includes/functions.php:35
+msgid "German (Austria)"
+msgstr ""
+
+#: includes/functions.php:34
+msgid "German (Formal)"
+msgstr ""
+
+#: includes/functions.php:36
+msgid "German (Switzerland)"
+msgstr ""
+
+#: includes/functions.php:37
+msgid "German (Switzerland) (Informal)"
+msgstr ""
+
+#: includes/functions.php:40
+msgid "Greek"
+msgstr ""
+
+#: includes/functions.php:72
+msgid "Gujarati"
+msgstr ""
+
+#: includes/functions.php:78
+msgid "Haitian"
+msgstr ""
+
+#: includes/functions.php:73
+msgid "Hazaragi"
+msgstr ""
+
+#: includes/functions.php:74
+msgid "Hebrew"
+msgstr ""
+
+#: includes/functions.php:75
+msgid "Hindi"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://ideasilo.wordpress.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://ideasilo.wordpress.com/bogo/"
+msgstr ""
+
+#: includes/functions.php:79
+msgid "Hungarian"
+msgstr ""
+
+#: includes/functions.php:82
+msgid "Icelandic"
+msgstr ""
+
+#: admin/includes/language-packs.php:173
+msgid "Inactive"
+msgstr ""
+
+#: includes/functions.php:23
+msgid "Indian Bengali"
+msgstr ""
+
+#: includes/functions.php:81
+msgid "Indonesian"
+msgstr ""
+
+#: includes/functions.php:69
+msgid "Irish"
+msgstr ""
+
+#: includes/functions.php:83
+msgid "Italian"
+msgstr ""
+
+#: includes/functions.php:84
+msgid "Japanese"
+msgstr ""
+
+#: includes/functions.php:85
+msgid "Javanese"
+msgstr ""
+
+#: includes/functions.php:87
+msgid "Kabyle"
+msgstr ""
+
+#: includes/functions.php:90
+msgid "Kannada"
+msgstr ""
+
+#: includes/functions.php:88
+msgid "Kazakh"
+msgstr ""
+
+#: includes/functions.php:89
+msgid "Khmer"
+msgstr ""
+
+#: includes/functions.php:91
+msgid "Korean"
+msgstr ""
+
+#: admin/admin.php:61 admin/includes/language-packs.php:14
+#: admin/includes/post.php:203 admin/includes/post.php:238
+msgid "Language"
+msgstr ""
+
+#: admin/admin.php:137 admin/admin.php:138 admin/admin.php:314
+msgid "Language Packs"
+msgstr ""
+
+#. %s: number of language packs
+#: admin/includes/language-packs.php:120
+#, php-format
+msgctxt "language status"
+msgid "Active <span class=\"count\">(%s)</span>"
+msgid_plural "Active <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: number of language packs
+#: admin/includes/language-packs.php:103
+#, php-format
+msgctxt "language status"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: number of language packs
+#: admin/includes/language-packs.php:137
+#, php-format
+msgctxt "language status"
+msgid "Inactive <span class=\"count\">(%s)</span>"
+msgid_plural "Inactive <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/widgets.php:21 includes/widgets.php:29
+msgid "Language Switcher"
+msgstr ""
+
+#: includes/widgets.php:15
+msgid "Language switcher widget by Bogo plugin"
+msgstr ""
+
+#: admin/admin.php:131
+msgid "Languages"
+msgstr ""
+
+#: includes/functions.php:93
+msgid "Lao"
+msgstr ""
+
+#: includes/functions.php:95
+msgid "Latvian"
+msgstr ""
+
+#: includes/functions.php:92
+msgid "Limburgish"
+msgstr ""
+
+#: includes/functions.php:94
+msgid "Lithuanian"
+msgstr ""
+
+#: admin/includes/user.php:61 admin/includes/post.php:21
+msgid "Locale"
+msgstr ""
+
+#: includes/functions.php:97
+msgid "Macedonian"
+msgstr ""
+
+#: includes/functions.php:96
+msgid "Malagasy"
+msgstr ""
+
+#: includes/functions.php:101
+msgid "Malay"
+msgstr ""
+
+#: includes/functions.php:98
+msgid "Malayalam"
+msgstr ""
+
+#: includes/functions.php:102
+msgid "Maltese"
+msgstr ""
+
+#: includes/functions.php:100
+msgid "Marathi"
+msgstr ""
+
+#: admin/includes/language-packs.php:351
+msgid "Meet the Translation Team"
+msgstr ""
+
+#. %s: language name
+#: admin/includes/language-packs.php:354
+#, php-format
+msgid "Meet the Translation Team for %s"
+msgstr ""
+
+#: includes/functions.php:99
+msgid "Mongolian"
+msgstr ""
+
+#: includes/functions.php:16
+msgid "Moroccan Arabic"
+msgstr ""
+
+#: includes/functions.php:105
+msgid "Nepali"
+msgstr ""
+
+#: includes/functions.php:106
+msgid "Nias"
+msgstr ""
+
+#: admin/admin.php:62
+msgid "None"
+msgstr ""
+
+#: includes/functions.php:104
+msgid "Norwegian (Bokmål)"
+msgstr ""
+
+#: includes/functions.php:110
+msgid "Norwegian (Nynorsk)"
+msgstr ""
+
+#: includes/functions.php:111
+msgid "Occitan"
+msgstr ""
+
+#: admin/includes/terms-translation.php:12
+msgid "Original"
+msgstr ""
+
+#: includes/functions.php:112
+msgid "Ossetic"
+msgstr ""
+
+#: includes/functions.php:115
+msgid "Pashto"
+msgstr ""
+
+#: includes/functions.php:61
+msgid "Persian"
+msgstr ""
+
+#: includes/functions.php:114
+msgid "Polish"
+msgstr ""
+
+#: includes/functions.php:118
+msgid "Portuguese (Angola)"
+msgstr ""
+
+#: includes/functions.php:119
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: includes/functions.php:116
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+#: includes/functions.php:117
+msgid "Portuguese (Portugal) (Ao90)"
+msgstr ""
+
+#: includes/functions.php:113
+msgid "Punjabi"
+msgstr ""
+
+#: includes/functions.php:120
+msgid "Rohingya"
+msgstr ""
+
+#: includes/functions.php:121
+msgid "Romanian"
+msgstr ""
+
+#: includes/functions.php:122
+msgid "Russian"
+msgstr ""
+
+#: includes/functions.php:124
+msgid "Sakha"
+msgstr ""
+
+#: includes/functions.php:123
+msgid "Sanskrit"
+msgstr ""
+
+#: includes/functions.php:127
+msgid "Saraiki"
+msgstr ""
+
+#: admin/admin.php:494
+msgid "Saving translation failed."
+msgstr ""
+
+#: includes/functions.php:70
+msgid "Scottish Gaelic"
+msgstr ""
+
+#: admin/admin.php:338
+msgid "Search Language"
+msgstr ""
+
+#. %s: search query
+#: admin/admin.php:323 admin/admin.php:437
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/admin.php:453
+msgid "Search Translation"
+msgstr ""
+
+#: includes/functions.php:132
+msgid "Serbian"
+msgstr ""
+
+#. %s: language name
+#: admin/includes/language-packs.php:303
+#, php-format
+msgid "Set %s as Site Language"
+msgstr ""
+
+#: admin/includes/language-packs.php:300
+msgid "Set as Site Language"
+msgstr ""
+
+#: admin/admin.php:482
+msgid "Setting site language failed."
+msgstr ""
+
+#: admin/includes/post.php:86
+msgid "Show all locales"
+msgstr ""
+
+#: includes/functions.php:136
+msgid "Silesian"
+msgstr ""
+
+#: includes/functions.php:129
+msgid "Sindhi"
+msgstr ""
+
+#: includes/functions.php:125
+msgid "Sinhala"
+msgstr ""
+
+#: admin/includes/language-packs.php:167
+msgid "Site Language"
+msgstr ""
+
+#: admin/admin.php:480
+msgid "Site language set successfully."
+msgstr ""
+
+#: admin/includes/terms-translation.php:163
+msgid "Site Title"
+msgstr ""
+
+#: includes/functions.php:126
+msgid "Slovak"
+msgstr ""
+
+#: includes/functions.php:128
+msgid "Slovenian"
+msgstr ""
+
+#: includes/functions.php:130
+msgid "Somali"
+msgstr ""
+
+#: includes/functions.php:19
+msgid "South Azerbaijani"
+msgstr ""
+
+#: includes/functions.php:49
+msgid "Spanish (Argentina)"
+msgstr ""
+
+#: includes/functions.php:50
+msgid "Spanish (Chile)"
+msgstr ""
+
+#: includes/functions.php:51
+msgid "Spanish (Colombia)"
+msgstr ""
+
+#: includes/functions.php:52
+msgid "Spanish (Costa Rica)"
+msgstr ""
+
+#: includes/functions.php:53
+msgid "Spanish (Guatemala)"
+msgstr ""
+
+#: includes/functions.php:54
+msgid "Spanish (Mexico)"
+msgstr ""
+
+#: includes/functions.php:55
+msgid "Spanish (Peru)"
+msgstr ""
+
+#: includes/functions.php:56
+msgid "Spanish (Puerto Rico)"
+msgstr ""
+
+#: includes/functions.php:48
+msgid "Spanish (Spain)"
+msgstr ""
+
+#: includes/functions.php:57
+msgid "Spanish (Uruguay)"
+msgstr ""
+
+#: includes/functions.php:58
+msgid "Spanish (Venezuela)"
+msgstr ""
+
+#: admin/includes/language-packs.php:15
+msgid "Status"
+msgstr ""
+
+#: includes/functions.php:134
+msgid "Sundanese"
+msgstr ""
+
+#: includes/functions.php:135
+msgid "Swahili"
+msgstr ""
+
+#: includes/functions.php:133
+msgid "Swedish"
+msgstr ""
+
+#: includes/functions.php:142
+msgid "Tagalog"
+msgstr ""
+
+#: admin/includes/terms-translation.php:172
+msgid "Tagline"
+msgstr ""
+
+#: includes/functions.php:138
+msgid "Tahitian"
+msgstr ""
+
+#: includes/functions.php:140
+msgid "Tajik"
+msgstr ""
+
+#. Author of the plugin
+msgid "Takayuki Miyoshi"
+msgstr ""
+
+#: includes/functions.php:137
+msgid "Tamil"
+msgstr ""
+
+#: includes/functions.php:144
+msgid "Tatar"
+msgstr ""
+
+#: includes/functions.php:139
+msgid "Telugu"
+msgstr ""
+
+#: admin/admin.php:151 admin/admin.php:152 admin/admin.php:428
+msgid "Terms Translation"
+msgstr ""
+
+#: includes/functions.php:141
+msgid "Thai"
+msgstr ""
+
+#: admin/admin.php:67
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr ""
+
+#: includes/rest-api.php:190
+msgid "The requested locale is not available."
+msgstr ""
+
+#: includes/rest-api.php:78 includes/rest-api.php:181
+msgid "The requested post type is not localizable."
+msgstr ""
+
+#: includes/rest-api.php:71 includes/rest-api.php:89 includes/rest-api.php:174
+msgid "The requested post was not found."
+msgstr ""
+
+#: admin/includes/user.php:64
+msgid "This user is allowed to access the following locales:"
+msgstr ""
+
+#: includes/functions.php:24
+msgid "Tibetan"
+msgstr ""
+
+#: includes/widgets.php:49
+msgid "Title:"
+msgstr ""
+
+#: admin/includes/post.php:129
+#, php-format
+msgid "Translate into %s"
+msgstr ""
+
+#: admin/includes/language-packs.php:308
+msgid "Translate Terms"
+msgstr ""
+
+#. %s: language name
+#: admin/includes/language-packs.php:311
+#, php-format
+msgid "Translate terms into %s"
+msgstr ""
+
+#: admin/includes/terms-translation.php:13
+msgid "Translation"
+msgstr ""
+
+#: admin/admin.php:478
+msgid "Translation install failed."
+msgstr ""
+
+#: admin/admin.php:476
+msgid "Translation installed successfully."
+msgstr ""
+
+#: admin/admin.php:65
+msgid "Translation post created."
+msgstr ""
+
+#: admin/admin.php:492
+msgid "Translation saved."
+msgstr ""
+
+#: admin/admin.php:486
+msgid "Translation uninstall failed."
+msgstr ""
+
+#: admin/admin.php:484
+msgid "Translation uninstalled successfully."
+msgstr ""
+
+#: admin/admin.php:63 admin/includes/post.php:246
+msgid "Translations"
+msgstr ""
+
+#: includes/functions.php:143
+msgid "Turkish"
+msgstr ""
+
+#: includes/functions.php:145
+msgid "Uighur"
+msgstr ""
+
+#: includes/functions.php:146
+msgid "Ukrainian"
+msgstr ""
+
+#: includes/functions.php:77
+msgid "Upper Sorbian"
+msgstr ""
+
+#: includes/functions.php:147
+msgid "Urdu"
+msgstr ""
+
+#: includes/functions.php:148
+msgid "Uzbek"
+msgstr ""
+
+#: includes/functions.php:149
+msgid "Vietnamese"
+msgstr ""
+
+#: includes/functions.php:31
+msgid "Welsh"
+msgstr ""
+
+#: includes/rest-api.php:38
+msgid "You are not allowed to access posts in the requested locale."
+msgstr ""
+
+#: admin/admin.php:363
+msgid "You are not allowed to edit terms in this locale."
+msgstr ""
+
+#: admin/admin.php:280 admin/admin.php:353
+msgid "You are not allowed to edit translations."
+msgstr ""
+
+#: admin/admin.php:188 admin/admin.php:220 admin/admin.php:252
+msgid "You are not allowed to manage translations."
+msgstr ""
